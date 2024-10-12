@@ -9,11 +9,6 @@ October 11, 2024*/
 /*Used for the size of the array for my list of months.*/
 #define SIZE 12
 
-//void monthlySalesReport(double salesFigures[], char months[SIZE][SIZE]);
-//void salesSummaryReport(double salesFigures[], char months[SIZE][SIZE]);
-//void sixMonthMovingAverageReport(double salesFigures[], char months[SIZE][SIZE]);
-//void salesReportHightestToLowest(double salesFigures[], char months[SIZE][SIZE]);
-
 void monthlySalesReport(double salesFigures[], char months[SIZE][SIZE]) {
         /*Prints the monthly sales report*/
         printf("Monthly Sales Report for 2024\n\n");
